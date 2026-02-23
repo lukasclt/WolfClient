@@ -2,4 +2,4 @@
 Gerado por MineGen AI
 
 ## Descrição
-Client PvP para Paper 1.20.4, baseado no design minimalista. Compatível com Java 8.
+Client PvP idêntico ao CM Client, baseado no design minimalista. Compatível com Minecraft 1.8.9 e Java 8.
