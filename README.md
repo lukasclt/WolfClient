@@ -1,2 +1,3 @@
 # WolfClient
-Projeto MineGen AI
+
+Gerado por MineGen AI
